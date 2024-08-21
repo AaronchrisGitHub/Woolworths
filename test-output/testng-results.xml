@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-16T17:34:26 IST" name="Default suite" finished-at="2024-08-16T17:34:42 IST" duration-ms="15896">
+    <groups>
+    </groups>
+    <test started-at="2024-08-16T17:34:26 IST" name="Default test" finished-at="2024-08-16T17:34:42 IST" duration-ms="15896">
+      <class name="BIG_W.sample">
+        <test-method signature="run()[pri:0, instance:BIG_W.sample@28d79cba]" started-at="2024-08-16T17:34:26 IST" name="run" finished-at="2024-08-16T17:34:42 IST" duration-ms="15812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- BIG_W.sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
